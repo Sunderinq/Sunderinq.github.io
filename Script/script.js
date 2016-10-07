@@ -7,5 +7,5 @@ if (hourNow > 18) {
   } else if (hourNow > 12) {
   greeting = ' Good afternoon!';
   } else if (hourNow > 0){
-  greeting = ' Welcome!";
+  greeting = ' Welcome!';
   }
